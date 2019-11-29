@@ -1,2 +1,2 @@
 # python-learning
-python learning based python3
+python basic syntax learning
