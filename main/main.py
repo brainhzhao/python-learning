@@ -9,5 +9,4 @@ if __name__ == "__main__1":
    send_msg.send_by_udp(message,1000,1000)
 
 if __name__ == "__main__":
-
     print help(type(utils))
